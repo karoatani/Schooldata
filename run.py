@@ -1,4 +1,3 @@
-# import csv
 from details.data import Details
 
 
